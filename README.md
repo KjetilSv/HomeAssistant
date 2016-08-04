@@ -1,0 +1,3 @@
+# HomeAssistant
+
+devices: Philips Hue
